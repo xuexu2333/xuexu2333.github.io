@@ -1,2 +1,2 @@
-# Kamox Network
-KamoxCore
+# Kamox Verification
+obsolete
